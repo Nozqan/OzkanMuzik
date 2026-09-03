@@ -1,0 +1,6 @@
+{
+  "name": "AKREP MÜZİK",
+  "description": "Ultra Premium Android Müzik Uygulaması. Offline müzik, görselleştirici, ekolayzır ve özel tasarım içerir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
